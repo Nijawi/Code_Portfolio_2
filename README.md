@@ -2,7 +2,6 @@
 This **Portfolio** contains *all* my Analytics Projects
 - **Email**: [training@library.uq.edu.au](training@library.uq.edu.au)
 - **Website**: [My Website](https://www.nickwiggins.com)
-- Hello everyone
 
 ## Projects
 ![Screenshot](https://github.com/Nijawi/Code_Portfolio_2/assets/67612228/491d953d-3aa3-418c-8ddd-8bec6194404c)
